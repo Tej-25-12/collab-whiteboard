@@ -63,4 +63,4 @@ The Collaborative Whiteboard Application is a practical demonstration of how rea
 ---
 ## OUTPUT-
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4bdce412-90d9-4ec8-9978-f64b8fc2bcf6" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/29fb792e-66f7-4d11-a7b6-a6793807f254" />
